@@ -1,0 +1,54 @@
+body{
+	font-family:cursive;
+}
+.navbar{
+	background-color:red;
+}
+    
+.navbar-nav li a{
+	color:white ;
+	text-decoration: none;
+
+}
+.container h1{
+      color: #ff0000;
+      padding: 90px 0px 0px 0px;
+      font-size: 65px;
+}
+.container p{
+	font-size: 18px;
+	color: black;
+    padding-left:;
+    padding-right:;
+    font-family:Comic Sans MS;
+}
+.container{
+	padding-bottom: 150px;
+    padding-left :50px:
+   
+}
+.footer{
+	background-color: #ff0000;
+	height: 160px;
+}
+.icons{
+     padding-top: 20px;
+     
+}
+.fa{
+     width: 30px;
+     height: 30px;
+     font-size: 30px;
+     color: red;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 180px; 
+  color: #fff;
+}
+.topnav{
+    font-family:Geometos;
+    font-size:55px;
+}
